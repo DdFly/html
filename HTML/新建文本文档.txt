@@ -1,0 +1,18 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta charset="GB2312">
+<title>登录界面</title>
+</head>
+<body>
+<header>腾讯QQ</header>
+<form method="post" action="">
+账号:<input type="text" name="user_name" />
+<br/>
+密码:<input type="text" name="password" />
+<br/>
+<input type="submit" value="登录" />
+<input type="reset" value="取消"/>
+</form>
+</body>
+</html>

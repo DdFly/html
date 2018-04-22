@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\diagram.xsl"?>
+<Diagram Image="_jj6WwKW8EeaFLoQDMNVHtw" Name="领域模型" Type="CompositeStructureDiagram">
+<Area coords="0,1,0,66,93,66,93,1" link="_mPJ1AKW8EeaFLoQDMNVHtw"/>
+<Area coords="398,288,398,348,474,348,474,288" link="_AhncMKW9EeaFLoQDMNVHtw"/>
+<Area coords="244,288,244,348,320,348,320,288" link="_XSiZ0KW-EeaFLoQDMNVHtw"/>
+<Area coords="223,4,223,64,299,64,299,4" link="_bL_XoKW-EeaFLoQDMNVHtw"/>
+<Area coords="390,0,390,60,466,60,466,0" link="_c2Yc4KW-EeaFLoQDMNVHtw"/>
+<Area coords="4,157,4,217,80,217,80,157" link="_eLxigKW-EeaFLoQDMNVHtw"/>
+<Area coords="112,289,112,349,188,349,188,289" link="_l9ekQKW-EeaFLoQDMNVHtw"/>
+<Area coords="224,149,224,209,300,209,300,149" link="_TbtcwKW_EeaFLoQDMNVHtw"/>
+<Area coords="34,62,34,158,47,158,47,62" link="_8lSeoKW-EeaFLoQDMNVHtw"/>
+<Area coords="80,208,80,298,244,298,244,208" link="_ATRMQKW_EeaFLoQDMNVHtw"/>
+<Area coords="89,26,89,39,224,39,224,26" link="_Db_QsKW_EeaFLoQDMNVHtw"/>
+<Area coords="295,24,295,37,391,37,391,24" link="_EaIT8KW_EeaFLoQDMNVHtw"/>
+<Area coords="424,56,424,289,437,289,437,56" link="_NcmaAKW_EeaFLoQDMNVHtw"/>
+<Area coords="76,175,76,188,225,188,225,175" link="_Z9iyEKW_EeaFLoQDMNVHtw"/>
+<Area coords="58,66,58,289,140,289,140,66" link="_dIMwMKW_EeaFLoQDMNVHtw"/>
+<Area coords="66,217,66,289,126,289,126,217" link="_doFxMKW_EeaFLoQDMNVHtw"/>
+<Area coords="80,61,80,161,223,161,223,61" link="_g30ckKW_EeaFLoQDMNVHtw"/>
+</Diagram>

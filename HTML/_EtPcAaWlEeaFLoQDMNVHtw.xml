@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\element.xsl"?>
+<properties>
+<catlog name="别名">
+<property name="别名" value=""/>
+<property name="显示别名" value="true"/>
+</catlog>
+<catlog name="常规">
+<property name="final" value="false"/>
+<property name="guid" value="_EtPcAaWlEeaFLoQDMNVHtw"/>
+<property name="元类" value="Property"/>
+<property name="全名" value="[Association].[Property]"/>
+<property name="只读" value="false"/>
+<property name="可见性" value="private"/>
+<property name="名字" value=""/>
+<property name="唯一" value="false"/>
+<property name="多重性" value="1"/>
+<property name="引用模板参数" value=""/>
+<property name="数组维数" value="0"/>
+<property name="有序" value="false"/>
+<property name="构造型" value=""/>
+<property name="派生" value="false"/>
+<property name="派生并集" value="false"/>
+<property name="类型" value="会员管理"/>
+<property name="聚集类型" value="none"/>
+<property name="重定义" value=""/>
+<property name="静态" value="false"/>
+<property name="默认值" value=""/>
+</catlog>
+<catlog name="描述">
+<property name="描述" value=""/>
+</catlog>
+<catlog name="自定义">
+<property name="标记值" value=""/>
+</catlog>
+<catlog name="锁定">
+<property name="只读" value="false"/>
+</catlog>
+</properties>

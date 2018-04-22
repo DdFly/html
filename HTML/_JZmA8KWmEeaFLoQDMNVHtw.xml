@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\diagram.xsl"?>
+<Diagram Image="_JZmA8KWmEeaFLoQDMNVHtw" Name="部署图" Type="DeploymentDiagram">
+<Area coords="257,175,257,215,382,215,382,175" link="_iZbQsKWoEeaFLoQDMNVHtw"/>
+<Area coords="249,120,249,223,404,223,404,120" link="_eIlGkKWoEeaFLoQDMNVHtw"/>
+<Area coords="584,160,584,200,710,200,710,160" link="_KqjVsKWqEeaFLoQDMNVHtw"/>
+<Area coords="584,106,584,208,732,208,732,106" link="_nSDzkKWoEeaFLoQDMNVHtw"/>
+<Area coords="423,351,423,391,548,391,548,351" link="_B3lEMKWqEeaFLoQDMNVHtw"/>
+<Area coords="423,394,423,434,548,434,548,394" link="_Uey28KWqEeaFLoQDMNVHtw"/>
+<Area coords="407,303,407,442,570,442,570,303" link="_sK_RYKWoEeaFLoQDMNVHtw"/>
+<Area coords="166,362,166,402,291,402,291,362" link="_12OLIKWpEeaFLoQDMNVHtw"/>
+<Area coords="158,314,158,414,313,414,313,314" link="_t2H9gKWoEeaFLoQDMNVHtw"/>
+<Area coords="665,366,665,406,790,406,790,366" link="_vqJDYKWpEeaFLoQDMNVHtw"/>
+<Area coords="661,317,661,422,812,422,812,317" link="_uffOIKWpEeaFLoQDMNVHtw"/>
+<Area coords="400,162,400,163,585,163,585,162" link="_Cgn2oKWpEeaFLoQDMNVHtw"/>
+<Area coords="566,367,566,368,662,368,662,367" link="_p40vkKWqEeaFLoQDMNVHtw"/>
+<Area coords="309,362,309,363,408,363,408,362" link="_uZA9QKWqEeaFLoQDMNVHtw"/>
+<Area coords="543,208,543,303,618,303,618,208" link="_z4sSAKWqEeaFLoQDMNVHtw"/>
+</Diagram>

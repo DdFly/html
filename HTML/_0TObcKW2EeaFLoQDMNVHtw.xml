@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\element.xsl"?>
+<properties>
+<catlog name="别名">
+<property name="别名" value=""/>
+<property name="显示别名" value="true"/>
+</catlog>
+<catlog name="常规">
+<property name="guid" value="_0TObcKW2EeaFLoQDMNVHtw"/>
+<property name="一般" value="餐厅员工"/>
+<property name="元类" value="Generalization"/>
+<property name="引用模板参数" value=""/>
+<property name="构造型" value=""/>
+<property name="特定" value="收银员"/>
+</catlog>
+<catlog name="描述">
+<property name="描述" value=""/>
+</catlog>
+<catlog name="自定义">
+<property name="标记值" value=""/>
+</catlog>
+<catlog name="锁定">
+<property name="只读" value="false"/>
+</catlog>
+</properties>

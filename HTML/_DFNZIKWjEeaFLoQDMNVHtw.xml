@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\diagram.xsl"?>
+<Diagram Image="_DFNZIKWjEeaFLoQDMNVHtw" Name="系统用例图" Type="UsecaseDiagram">
+<Area coords="253,295,253,335,385,335,385,295" link="_5Liv4KWjEeaFLoQDMNVHtw"/>
+<Area coords="250,42,250,82,382,82,382,42" link="__nanIKWjEeaFLoQDMNVHtw"/>
+<Area coords="251,168,251,208,383,208,383,168" link="_BP3ysKWkEeaFLoQDMNVHtw"/>
+<Area coords="250,105,250,145,382,145,382,105" link="_CztkAKWkEeaFLoQDMNVHtw"/>
+<Area coords="251,232,251,272,383,272,383,232" link="_FKz-QKWkEeaFLoQDMNVHtw"/>
+<Area coords="254,357,254,397,386,397,386,357" link="_HsWG4KWkEeaFLoQDMNVHtw"/>
+<Area coords="107,0,107,421,567,421,567,0" link="_aZILkKWjEeaFLoQDMNVHtw"/>
+<Area coords="0,110,0,170,36,170,36,110" link="_dv220KWjEeaFLoQDMNVHtw"/>
+<Area coords="1,264,1,324,40,324,40,264" link="_kttZwKWjEeaFLoQDMNVHtw"/>
+<Area coords="634,39,634,99,686,99,686,39" link="_oCgLUKWjEeaFLoQDMNVHtw"/>
+<Area coords="647,151,647,211,686,211,686,151" link="_qPBGMKWjEeaFLoQDMNVHtw"/>
+<Area coords="647,255,647,315,686,315,686,255" link="_2kDJMKWjEeaFLoQDMNVHtw"/>
+<Area coords="36,123,36,140,250,140,250,123" link="_z9PCgKWkEeaFLoQDMNVHtw"/>
+<Area coords="36,142,36,182,251,182,251,142" link="_4qZVMKWkEeaFLoQDMNVHtw"/>
+<Area coords="40,82,40,279,290,279,290,82" link="_7hFOcKWkEeaFLoQDMNVHtw"/>
+<Area coords="36,146,36,233,263,233,263,146" link="_EtPcAKWlEeaFLoQDMNVHtw"/>
+<Area coords="360,145,360,276,647,276,647,145" link="_HsbJ8KWlEeaFLoQDMNVHtw"/>
+<Area coords="383,180,383,193,647,193,647,180" link="_I15TcKWlEeaFLoQDMNVHtw"/>
+<Area coords="347,88,347,295,634,295,634,88" link="_LH7AcKWlEeaFLoQDMNVHtw"/>
+<Area coords="342,93,342,357,634,357,634,93" link="_Nd-44KWlEeaFLoQDMNVHtw"/>
+</Diagram>

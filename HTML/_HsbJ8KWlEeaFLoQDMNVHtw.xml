@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\element.xsl"?>
+<properties>
+<catlog name="别名">
+<property name="别名" value=""/>
+<property name="显示别名" value="true"/>
+</catlog>
+<catlog name="客户端">
+<property name="只读" value="false"/>
+<property name="可见性" value="private"/>
+<property name="唯一" value="false"/>
+<property name="多重性" value="1"/>
+<property name="子集" value=""/>
+<property name="导航" value="NOT NAVIGABLE"/>
+<property name="有序" value="false"/>
+<property name="派生" value="false"/>
+<property name="派生并集" value="false"/>
+<property name="类元" value="管理员"/>
+<property name="聚集类型" value="none"/>
+<property name="角色" value=""/>
+<property name="限定符" value=""/>
+</catlog>
+<catlog name="常规">
+<property name="final" value="false"/>
+<property name="guid" value="_HsbJ8KWlEeaFLoQDMNVHtw"/>
+<property name="元类" value="Association"/>
+<property name="全名" value="[Association]"/>
+<property name="可见性" value="public"/>
+<property name="名字" value=""/>
+<property name="抽象" value="false"/>
+<property name="构造型" value=""/>
+<property name="继承" value=""/>
+<property name="重定义" value=""/>
+</catlog>
+<catlog name="描述">
+<property name="描述" value=""/>
+</catlog>
+<catlog name="提供者">
+<property name="只读" value="false"/>
+<property name="可见性" value="private"/>
+<property name="唯一" value="false"/>
+<property name="多重性" value="1"/>
+<property name="子集" value=""/>
+<property name="导航" value="NAVIGABLE"/>
+<property name="有序" value="false"/>
+<property name="派生" value="false"/>
+<property name="派生并集" value="false"/>
+<property name="类元" value="餐饮管理系统.预约功能"/>
+<property name="聚集类型" value="none"/>
+<property name="角色" value=""/>
+<property name="限定符" value=""/>
+</catlog>
+<catlog name="自定义">
+<property name="标记值" value=""/>
+</catlog>
+<catlog name="锁定">
+<property name="只读" value="false"/>
+</catlog>
+</properties>

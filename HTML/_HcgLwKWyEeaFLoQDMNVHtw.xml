@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\element.xsl"?>
+<properties>
+<catlog name="别名">
+<property name="别名" value=""/>
+<property name="显示别名" value="true"/>
+</catlog>
+<catlog name="常规">
+<property name="guid" value="_HcgLwKWyEeaFLoQDMNVHtw"/>
+<property name="元类" value="ActionExecutionSpecification"/>
+<property name="全名" value="点菜过程顺序图.[ActionExecutionSpecification]"/>
+<property name="可见性" value="public"/>
+<property name="名字" value=""/>
+<property name="构造型" value=""/>
+</catlog>
+<catlog name="描述">
+<property name="描述" value=""/>
+</catlog>
+<catlog name="自定义">
+<property name="标记值" value=""/>
+</catlog>
+<catlog name="锁定">
+<property name="只读" value="false"/>
+</catlog>
+</properties>

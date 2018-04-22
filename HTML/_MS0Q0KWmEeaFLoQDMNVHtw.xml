@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="..\xslt\diagram.xsl"?>
+<Diagram Image="_MS0Q0KWmEeaFLoQDMNVHtw" Name="状态图" Type="StateMachineDiagram">
+<Area coords="410,87,410,118,489,118,489,87" link="_R5GfsKWtEeaFLoQDMNVHtw"/>
+<Area coords="37,166,37,190,61,190,61,166" link="_9w_7QKWnEeaFLoQDMNVHtw"/>
+<Area coords="148,172,148,198,218,198,218,172" link="_mHnPIKWnEeaFLoQDMNVHtw"/>
+<Area coords="30,256,30,280,54,280,54,256" link="_UDHu8KWnEeaFLoQDMNVHtw"/>
+<Area coords="152,249,152,275,222,275,222,249" link="_M7lEgKWnEeaFLoQDMNVHtw"/>
+<Area coords="422,252,422,278,492,278,492,252" link="_Kj40YKWnEeaFLoQDMNVHtw"/>
+<Area coords="423,165,423,191,493,191,493,165" link="__-Uj4KWmEeaFLoQDMNVHtw"/>
+<Area coords="157,96,157,122,227,122,227,96" link="_tjLeQKWmEeaFLoQDMNVHtw"/>
+<Area coords="36,98,36,118,56,118,56,98" link="_lQPXsKWmEeaFLoQDMNVHtw"/>
+<Area coords="36,34,36,58,60,58,60,34" link="_2QAVYKWvEeaFLoQDMNVHtw"/>
+<Area coords="0,30,0,284,512,284,512,30" link="_MS0Q1aWmEeaFLoQDMNVHtw"/>
+<Area coords="0,0,0,292,516,292,516,0" link="_MS0Q1KWmEeaFLoQDMNVHtw"/>
+<Area coords="54,101,54,114,158,114,158,101" link="_bcr9gKWnEeaFLoQDMNVHtw"/>
+<Area coords="225,100,225,113,411,113,411,100" link="_NCoOEKWvEeaFLoQDMNVHtw"/>
+<Area coords="59,174,59,187,149,187,149,174" link="__GOo0KWnEeaFLoQDMNVHtw"/>
+<Area coords="216,174,216,187,424,187,424,174" link="_wnqtgKWnEeaFLoQDMNVHtw"/>
+<Area coords="180,120,180,173,193,173,193,120" link="_wEyp8KWnEeaFLoQDMNVHtw"/>
+<Area coords="52,258,52,271,153,271,153,258" link="_fowVUKWnEeaFLoQDMNVHtw"/>
+<Area coords="220,256,220,269,423,269,423,256" link="_e5YG0KWnEeaFLoQDMNVHtw"/>
+<Area coords="450,189,450,253,463,253,463,189" link="_eVKmgKWnEeaFLoQDMNVHtw"/>
+<Area coords="449,116,449,166,462,166,462,116" link="_s_NfcKWvEeaFLoQDMNVHtw"/>
+<Area coords="58,40,58,88,448,88,448,40" link="_4sIZkKWvEeaFLoQDMNVHtw"/>
+</Diagram>
